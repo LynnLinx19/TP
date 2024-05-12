@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">food_wasting</string>
+    <string name="restourant">ресторан</string>
+    <string name="buyer">покупатель</string>
+    <string name="hello_string">Добро пожаловать!</string>
+</resources>
